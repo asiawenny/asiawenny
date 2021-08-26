@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asiawenny
-- 👀 I’m interested in KiCad and labview
+- 👀 I’m interested in electronic, KiCad and labview
 - 🌱 I’m currently learning Measuring 2nV/√Hz Noise and 120dB Supply Rejection on Linear Regulators
 - 💞️ I’m looking to collaborate on KiCad footprint, smbol and 3D model
 - 📫 How to reach me ...
